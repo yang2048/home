@@ -10,14 +10,14 @@
     "link": "https://pan.yyovo.com/"
   },
   {
-    "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://music.yyovo.com/"
+    "icon": "ShieldLock",
+    "name": "密码箱",
+    "link": "https://bitwarden.yyovo.com/"
   },
   {
     "icon": "Compass",
     "name": "起始页",
-    "link": "https://nav.yyovo.com/"
+    "link": "https://www.yyovo.com/"
   },
   {
     "icon": "Book",
