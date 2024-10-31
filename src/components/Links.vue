@@ -65,7 +65,7 @@ const siteLinksList = computed(() => {
 const siteIcon = {
   Blog,
   Cloud,
-  ShieldLock,
+  ChessKnight,
   Compass,
   Book,
   Fire,
