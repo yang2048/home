@@ -179,7 +179,7 @@ onBeforeUnmount(() => {
     backdrop-filter: blur(10px);
     border-radius: 6px;
     transition: transform 0.3s;
-    animation: fade 0.5s;
+    animation: bounce 2s ease infinite;
     &:active {
       transform: scale(0.95);
     }
